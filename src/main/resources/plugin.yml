@@ -1,0 +1,5 @@
+name: Rappelling
+version: ${project.version}
+main: io.github.hatsuduki.rappelling.Rappelling
+api-version: 1.17
+authors: [ Hatsuduki ]
